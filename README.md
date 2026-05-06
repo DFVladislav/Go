@@ -255,7 +255,7 @@ Hello from Go app!
 2 + 3 = 5
 ```
 
-![Hello from my Go app!](/content/DevOps/CI_CD/img/7_workflow.png)
+![alt text](image.png)
 
 Опционально вы можете зайти в интерактивный режим контейнера для ознакомления и отладки:
 ```shell
