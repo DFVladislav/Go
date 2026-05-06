@@ -266,10 +266,11 @@ docker run -it --rm my-go-app:latest /bin/sh
 cat /etc/os-release
 
 
-<img width="528" height="169" alt="изображение" src="https://github.com/user-attachments/assets/94fa7de1-e040-481e-aae5-a05a8cd1d4f7" />
+
 
 ```
-![Hello from my Go app!](/content/DevOps/CI_CD/img/8_workflow.png)
+
+<img width="528" height="169" alt="изображение" src="https://github.com/user-attachments/assets/2a7fa4d2-873c-41a7-9d0f-2b47e90d26d1" />
 
 выйти из контейнра:
 ```shell
